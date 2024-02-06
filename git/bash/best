@@ -1,8 +1,2 @@
 #!/bin/bash
 echo "The school is open!"
-If you have questions, please
-<<<<<<< HEAD
-open an issue
-=======
-ask your question in IRC.
->>>>>>> branch-update_script
