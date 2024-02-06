@@ -1,2 +1,10 @@
 #!/bin/bash
+<<<<<<< HEAD
 echo "The school is open!"
+=======
+<<<<<<<HEAD
+echo "The school is open!"
+=======
+echo "Best School"
+>>>>>>>
+>>>>>>> main
