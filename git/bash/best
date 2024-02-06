@@ -1,9 +1,4 @@
-<<<<<<< HEAD
-echo "The school is open!"
-=======
-echo "Best School"
->>>>>>> update_script
-
+#!/bin/bash
 <<<<<<< HEAD
 // Changes made in the current branch (main branch)
 echo "The school is open"
