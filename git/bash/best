@@ -4,3 +4,10 @@ echo "The school is open!"
 echo "Best School"
 >>>>>>> update_script
 
+<<<<<<< HEAD
+// Changes made in the current branch (main branch)
+echo "The school is open"
+=======
+// Changes made in the branch being merged (update_script branch)
+echo "Best School"
+>>>>>>> update_script
